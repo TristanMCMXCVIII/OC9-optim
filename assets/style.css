@@ -203,7 +203,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #BEB45A;
+	background-color: #877F36; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
 	width: 374px;
 	height: 329px;
 	position: absolute;
