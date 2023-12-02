@@ -240,7 +240,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #BEB45A;
+	background-color: #877F36; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
 	padding: .5em 1em
 }
 
@@ -255,7 +255,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p {
+	#about-me h6, #about-me p { /**/
 		width: 100%;
 	}
 }
