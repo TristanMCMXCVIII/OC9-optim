@@ -255,7 +255,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h6, #about-me p { /**/
+	#about-me strong, #about-me p { /*h6 -> strong*/
 		width: 100%;
 	}
 }
