@@ -91,7 +91,7 @@ body {
 }
 
 #gallery {
-	/*	min-height: 100vh; */
+	min-height: 100vh;
 }
 .title{
 	text-align: center;
@@ -240,7 +240,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #5A562A; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
+	background-color: #BEB45A; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
 	padding: .5em 1em
 }
 
