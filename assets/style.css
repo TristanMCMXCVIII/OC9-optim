@@ -102,7 +102,7 @@ body {
 }
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #877F36;   /*#BEB45A*/
+	background-color: #5A562A;   /*#BEB45A*/
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -203,7 +203,7 @@ body {
 }
 .picture.right::before {
 	content: ' ';
-	background-color: #877F36; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
+	background-color: #5A562A; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
 	width: 374px;
 	height: 329px;
 	position: absolute;
@@ -240,7 +240,7 @@ form textarea {
 	margin-bottom: 20px;
 }
 input[type="submit"] {
-	background-color: #877F36; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
+	background-color: #5A562A; /* #BEB45A nouveau contrast 4,1 : 1, mieux que le précédent de 2,12 : 1 */
 	padding: .5em 1em
 }
 
