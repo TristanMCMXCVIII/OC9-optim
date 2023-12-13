@@ -354,3 +354,7 @@ input[type="submit"] {
 	}
 }
 
+.hauto {
+	width : 100%;
+	height : auto;
+}
